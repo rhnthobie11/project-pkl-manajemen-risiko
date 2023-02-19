@@ -16,38 +16,54 @@
             <form action="">
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">1. Pegawai mendapatkan pesan integritas & nilai etika rutin dari pimpinan instansi (Misalnya keteladanan, pesan moral dll)</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">2. Pemda telah memiliki aturan perilaku (misalnya kode etik, pakta integritas, dan aturan perilaku pegawai) yang telah dikomunikasikan kepada seluruh pegawai</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">3. Telah terdapat fungsi khusus di dalam instansi yang melayani pengaduan masyarakat atas pelanggaran aturan perilaku/kode etik</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">4. Pelanggaran aturan perilaku/kode etik telah ditindaklanjuti sesuai ketentuan yang berlaku</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
             </form>
@@ -61,38 +77,54 @@
             <form action="">
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">1. Pegawai mendapatkan pesan integritas & nilai etika rutin dari pimpinan instansi (Misalnya keteladanan, pesan moral dll)</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">2. Pemda telah memiliki aturan perilaku (misalnya kode etik, pakta integritas, dan aturan perilaku pegawai) yang telah dikomunikasikan kepada seluruh pegawai</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">3. Telah terdapat fungsi khusus di dalam instansi yang melayani pengaduan masyarakat atas pelanggaran aturan perilaku/kode etik</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">4. Pelanggaran aturan perilaku/kode etik telah ditindaklanjuti sesuai ketentuan yang berlaku</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
             </form>
@@ -105,38 +137,54 @@
             <form action="">
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">1. Pegawai mendapatkan pesan integritas & nilai etika rutin dari pimpinan instansi (Misalnya keteladanan, pesan moral dll)</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">2. Pemda telah memiliki aturan perilaku (misalnya kode etik, pakta integritas, dan aturan perilaku pegawai) yang telah dikomunikasikan kepada seluruh pegawai</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">3. Telah terdapat fungsi khusus di dalam instansi yang melayani pengaduan masyarakat atas pelanggaran aturan perilaku/kode etik</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">4. Pelanggaran aturan perilaku/kode etik telah ditindaklanjuti sesuai ketentuan yang berlaku</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
             </form>
@@ -149,38 +197,54 @@
             <form action="">
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">1. Pegawai mendapatkan pesan integritas & nilai etika rutin dari pimpinan instansi (Misalnya keteladanan, pesan moral dll)</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">2. Pemda telah memiliki aturan perilaku (misalnya kode etik, pakta integritas, dan aturan perilaku pegawai) yang telah dikomunikasikan kepada seluruh pegawai</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">3. Telah terdapat fungsi khusus di dalam instansi yang melayani pengaduan masyarakat atas pelanggaran aturan perilaku/kode etik</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">4. Pelanggaran aturan perilaku/kode etik telah ditindaklanjuti sesuai ketentuan yang berlaku</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
             </form>
@@ -193,38 +257,54 @@
             <form action="">
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">1. Pegawai mendapatkan pesan integritas & nilai etika rutin dari pimpinan instansi (Misalnya keteladanan, pesan moral dll)</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">2. Pemda telah memiliki aturan perilaku (misalnya kode etik, pakta integritas, dan aturan perilaku pegawai) yang telah dikomunikasikan kepada seluruh pegawai</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">3. Telah terdapat fungsi khusus di dalam instansi yang melayani pengaduan masyarakat atas pelanggaran aturan perilaku/kode etik</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">4. Pelanggaran aturan perilaku/kode etik telah ditindaklanjuti sesuai ketentuan yang berlaku</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
             </form>
@@ -237,38 +317,54 @@
             <form action="">
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">1. Pegawai mendapatkan pesan integritas & nilai etika rutin dari pimpinan instansi (Misalnya keteladanan, pesan moral dll)</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">2. Pemda telah memiliki aturan perilaku (misalnya kode etik, pakta integritas, dan aturan perilaku pegawai) yang telah dikomunikasikan kepada seluruh pegawai</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">3. Telah terdapat fungsi khusus di dalam instansi yang melayani pengaduan masyarakat atas pelanggaran aturan perilaku/kode etik</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">4. Pelanggaran aturan perilaku/kode etik telah ditindaklanjuti sesuai ketentuan yang berlaku</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
             </form>
@@ -281,38 +377,54 @@
             <form action="">
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">1. Pegawai mendapatkan pesan integritas & nilai etika rutin dari pimpinan instansi (Misalnya keteladanan, pesan moral dll)</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">2. Pemda telah memiliki aturan perilaku (misalnya kode etik, pakta integritas, dan aturan perilaku pegawai) yang telah dikomunikasikan kepada seluruh pegawai</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">3. Telah terdapat fungsi khusus di dalam instansi yang melayani pengaduan masyarakat atas pelanggaran aturan perilaku/kode etik</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">4. Pelanggaran aturan perilaku/kode etik telah ditindaklanjuti sesuai ketentuan yang berlaku</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
             </form>
@@ -325,38 +437,54 @@
             <form action="">
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">1. Pegawai mendapatkan pesan integritas & nilai etika rutin dari pimpinan instansi (Misalnya keteladanan, pesan moral dll)</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">2. Pemda telah memiliki aturan perilaku (misalnya kode etik, pakta integritas, dan aturan perilaku pegawai) yang telah dikomunikasikan kepada seluruh pegawai</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">3. Telah terdapat fungsi khusus di dalam instansi yang melayani pengaduan masyarakat atas pelanggaran aturan perilaku/kode etik</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
                 <div class="question static px-[40px] py-[15px]">
                     <span class="lg:text-[20px] md:text-[18px] sm:[16px] font-normal">4. Pelanggaran aturan perilaku/kode etik telah ditindaklanjuti sesuai ketentuan yang berlaku</span>
-                    <div class="flex items-center justify-around py-4">
+                    <div class="flex items-center justify-center py-4">
                         <input type="radio" name="kuisioner" value="1" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="1" class="mr-8 ml-2">1</label>
                         <input type="radio" name="kuisioner" value="2" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="2" class="mr-8 ml-2">2</label>
                         <input type="radio" name="kuisioner" value="3" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="3" class="mr-8 ml-2">3</label>
                         <input type="radio" name="kuisioner" value="4" class="w-5 h-5 text-green-600 bg-gray-100 border-gray-300 focus:ring-green-500 focus:ring-2">
+                        <label for="4" class="mr-8 ml-2">4</label>
                     </div>
                 </div>
             </form>
